@@ -1,6 +1,6 @@
 # Phenotype-Classification-Using-Moment-Features
 
-Companion code for:
+Companion Matlab code for:
 
 Phenotype Classi cation Using Moment Features of Single-Cell Data
 
